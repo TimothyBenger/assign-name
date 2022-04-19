@@ -1,8 +1,10 @@
 ## Installation
 
+```console
 $ python3 -m venv venv
 $ pip install -r requirements.txt
 $ ./src/assign-name.py --photos_location <path/to/photos>
+```
 
 ## Usage
 
